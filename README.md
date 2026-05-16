@@ -24,7 +24,7 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 
 ## About Me
 
-- Senior Software Engineer with 8+ years of experience specializing in frontend engineering
+- Senior Software Engineer with 8 years of experience specializing in frontend engineering
 - Building scalable enterprise applications using React.js, TypeScript, and Next.js
 - Experienced in frontend architecture, micro-frontends, reusable component systems, and performance optimization
 - Strong focus on accessibility, maintainable code, testing, and developer experience
@@ -59,12 +59,14 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 
 ## Engineering Highlights
 
-- Improved Lighthouse performance score from **68 → 92**
-- Reduced frontend code duplication by **25–30%**
-- Reduced production regressions by **30%** through automated testing and CI quality gates
-- Built scalable enterprise frontend systems using React.js, TypeScript, Redux, and micro-frontends
-- Improved maintainability through reusable component architecture and shared utilities
-- Mentored engineers through code reviews and frontend best practices
+- Built scalable enterprise frontend applications using React.js, TypeScript, Redux, and micro-frontend architecture
+- Improved frontend maintainability by standardizing reusable component patterns and reducing duplicate code by 25–30%
+- Reduced production regressions by 30% through automated testing with Jest, React Testing Library, and CI quality gates
+- Optimized frontend performance through bundle optimization, lazy loading, and render-flow improvements
+- Increased Lighthouse performance score from 68 → 92 by improving asset delivery and removing render-blocking scripts
+- Developed accessible UI experiences using semantic HTML, ARIA standards, and WCAG AA best practices
+- Contributed to production releases, debugging critical frontend issues and improving deployment reliability
+- Mentored engineers through code reviews, frontend architecture discussions, and engineering best practices
 
 ---
 
@@ -75,18 +77,6 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 - AI-assisted development workflows
 - Scalable component architecture
 - Performance-focused frontend engineering
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mainao&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainao&layout=compact&hide_border=true" />
-</p>
 
 ---
 

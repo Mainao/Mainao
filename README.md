@@ -68,29 +68,6 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 
 ---
 
-## Featured Projects
-
-### Anime Scene Search
-A Next.js application that allows users to upload anime screenshots and identify scenes using anime search APIs.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS
-
----
-
-### Butterfly Portfolio
-An interactive portfolio website where a butterfly navigates between sections like projects, skills, and resume.
-
-**Tech:** Next.js App Router, TypeScript, Framer Motion
-
----
-
-### Vintage Photobooth App
-A minimal vintage-inspired photobooth application with elegant UI and modular React architecture.
-
-**Tech:** React, TypeScript, Vite
-
----
-
 ## Currently Exploring
 
 - Frontend system design

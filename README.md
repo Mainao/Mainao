@@ -24,7 +24,6 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 
 ## About Me
 
-- Senior Software Engineer with 8 years of experience specializing in frontend engineering
 - Building scalable enterprise applications using React.js, TypeScript, and Next.js
 - Experienced in frontend architecture, micro-frontends, reusable component systems, and performance optimization
 - Strong focus on accessibility, maintainable code, testing, and developer experience
@@ -54,19 +53,6 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-
----
-
-## Engineering Highlights
-
-- Built scalable enterprise frontend applications using React.js, TypeScript, Redux, and micro-frontend architecture
-- Improved frontend maintainability by standardizing reusable component patterns and reducing duplicate code by 25–30%
-- Reduced production regressions by 30% through automated testing with Jest, React Testing Library, and CI quality gates
-- Optimized frontend performance through bundle optimization, lazy loading, and render-flow improvements
-- Increased Lighthouse performance score from 68 → 92 by improving asset delivery and removing render-blocking scripts
-- Developed accessible UI experiences using semantic HTML, ARIA standards, and WCAG AA best practices
-- Contributed to production releases, debugging critical frontend issues and improving deployment reliability
-- Mentored engineers through code reviews, frontend architecture discussions, and engineering best practices
 
 ---
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mainao Baro 👋</h1>
 
 <h3 align="center">
-Senior Software Engineer specializing in Frontend Engineering
+Frontend-focused Senior Software Engineer 
 </h3>
 
 <p align="center">

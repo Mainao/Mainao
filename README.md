@@ -55,6 +55,8 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ---
+<img src="https://your-deployment.vercel.app/api/receipt?username=YOUR_USERNAME" />
+---
 
 ## Currently Exploring
 

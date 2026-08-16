@@ -56,7 +56,7 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 
 ---
 
-<img src="https://your-deployment.vercel.app/api/receipt?username=Mainao" />
+<img src="https://readme-receipt.vercel.app/api/receipt?username=Mainao" />
 
 ## Currently Exploring
 

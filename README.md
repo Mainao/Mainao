@@ -8,18 +8,6 @@ Frontend-focused Senior Software Engineer
 Building scalable React.js & TypeScript applications focused on performance, architecture, accessibility, and developer experience.
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mainao-baro">
-    <img src="https://img.shields.io/badge/LinkedIn-Mainao%20Baro-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:mainao1230@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mainao1230%40gmail.com-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://github.com/Mainao">
-    <img src="https://img.shields.io/badge/GitHub-Mainao-black?style=flat&logo=github" />
-  </a>
-</p>
-
 ---
 
 ## About Me
@@ -70,6 +58,14 @@ Building scalable React.js & TypeScript applications focused on performance, arc
 
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/mainao-baro
-- GitHub: https://github.com/Mainao
-- Email: mainao1230@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/mainao-baro">
+    <img src="https://img.shields.io/badge/LinkedIn-Mainao%20Baro-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:mainao1230@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mainao1230%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://github.com/Mainao">
+    <img src="https://img.shields.io/badge/GitHub-Mainao-black?style=flat&logo=github" />
+  </a>
+</p>
